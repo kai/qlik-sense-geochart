@@ -1,0 +1,9 @@
+{
+	"name" : "Google GeoChart",
+	"description" : "Google GeoChart",
+	"icon" : "bar-chart-vertical",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "bar",
+	"author": "Kai Hilton-Jones"
+}
